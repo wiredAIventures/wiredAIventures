@@ -47,10 +47,10 @@
 <!-- Connect -->
 <h2 align="center">🌐 Connect with Us</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/wiredai" target="_blank">
+  <a href="https://www.linkedin.com/in/wiredai-ventures-b3874b378/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:contact@wiredai.com">
+  <a href="mailto:wiredaiventures@gmail.com">
     <img src="https://img.shields.io/badge/Email-contact%40wiredai.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
